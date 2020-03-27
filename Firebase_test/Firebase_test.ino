@@ -6,9 +6,9 @@
 
 // Set these to run example.
 #define FIREBASE_HOST "https://realtime-analysis-nodemcu.firebaseio.com/"
-#define FIREBASE_AUTH "RONOy7R65PUnFRrYz9s5sCIPqmMWH5u6skwOnQJv"
-#define WIFI_SSID "Extreme_One AV"
-#define WIFI_PASSWORD "datakamhai"
+#define FIREBASE_AUTH "mention your firebase authentication key"
+#define WIFI_SSID "your ssid"
+#define WIFI_PASSWORD "password"
 
 String myString;
 int vr = A0; // variable resistor connected 
